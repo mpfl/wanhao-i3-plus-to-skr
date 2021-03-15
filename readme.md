@@ -4,16 +4,16 @@ Using Cat6 UTP cable as a wiring loom. Two cables required to provide 16 wires.
 
 ## Cable 1 - Extruder stepper and hotend heater
 
-Wire | Purpose | [Board pin](https://github.com/bigtreetech/BIGTREETECH-SKR-mini-E3/blob/master/hardware/BTT%20SKR%20MINI%20E3%20V2.0/Hardware/BTT%20SKR%20MINI%20E3%20V2.0-PIN.pdf) | Board connector type | Print head connector type
+Wire | Purpose | [Board pin](https://github.com/bigtreetech/BIGTREETECH-SKR-mini-E3/blob/master/hardware/BTT%20SKR%20MINI%20E3%20V2.0/Hardware/BTT%20SKR%20MINI%20E3%20V2.0-PIN.pdf) | Board connector type | Tool head connector type
 ----- | ----- | ----- | ----- | -----
 Blue solid | Hot end heater | HE0 PC8 | Bare wire | Mini Tamiya Type B 2-pin
 Blue stripe | Hot end heater | HE0 12/24V | Bare wire | Mini Tamiya Type B 2-pin
 Brown solid | Hot end heater | HE0 PC8 | Bare wire | Mini Tamiya Type B 2-pin
 Brown stripe | Hot end heater | HE0 12/24V | Bare wire | Mini Tamiya Type B 2-pin
-Green solid | Extruder stepper black | EM 2B | JST XH 4-pin | JST XHP 4-pin
-Green stripe | Extruder stepper green | EM 1B | JST XH 4-pin | JST XHP 4-pin
-Orange solid | Extruder stepper red | EM 1A | JST XH 4-pin | JST XHP 4-pin
-Orange stripe | Extruder stepper blue | EM 2A | JST XH 4-pin | JST XHP 4-pin
+Green solid | Extruder stepper black | EM 2B | JST XH 4-pin | JST PH 6-pin
+Green stripe | Extruder stepper green | EM 1B | JST XH 4-pin | JST PH 6-pin
+Orange solid | Extruder stepper red | EM 1A | JST XH 4-pin | JST PH 6-pin
+Orange stripe | Extruder stepper blue | EM 2A | JST XH 4-pin | JST PH 6-pin
 
 ## Cable 2 - Fans and sensors
 
